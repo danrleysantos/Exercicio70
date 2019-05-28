@@ -3,13 +3,7 @@ package Universidade;
 
 public class ProfRI extends Professores {
     
-    private double horastrabalhadas;
     private double salario;
-    
-    public double gethorastrabalhadas(){
-    
-        return this.horastrabalhadas;
-    }
     
     public double getsalario(){
     
