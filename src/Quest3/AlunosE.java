@@ -1,5 +1,5 @@
 
-package IFNMG;
+package Quest3;
 
 public class AlunosE extends GadEPos {
     private String Nome;

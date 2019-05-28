@@ -1,8 +1,8 @@
 
-package IFNMG;
+package Quest3;
 
 
-public class AlunosG extends Graduacao {
+public class Alunos extends PosGraduacao {
     private String Nome;
     private String Telefone;
     private String Matricula;
@@ -31,12 +31,13 @@ public class AlunosG extends Graduacao {
     
         this.Telefone = m;
     }
-    public AlunosG(String dg, String n, String t,  String m){
+    public Alunos(String d, String n, String t,  String m){
     
-        super(dg);
+        super(d);
         this.setNome(n);
         this.setTelefone(t);
         this.setMatricula(m);
         
     }
+    
 }

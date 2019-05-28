@@ -1,5 +1,5 @@
 
-package Universidade;
+package Quest2;
 
 public class Professores {
     
